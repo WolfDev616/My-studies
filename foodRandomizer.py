@@ -1,6 +1,6 @@
 import random 
 
-carboidrato = ["arroz", "arroz integral", "spaghetti", "linguini", "penne", "gnnochi", ]
+carboidrato = ["arroz", "arroz integral", "spaghetti", "linguini", "penne", "gnnochi"]
 
 proteina = ["peito de frango", "coxa de frango", "alcatra", "paleta", "costelinha de porco", "almôndega", "linguiça"]
 
